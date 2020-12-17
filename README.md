@@ -1,6 +1,6 @@
 # data-mining
 
-Kumpulan dataset, latihan, source code, project rapidminer, dll untuk keperluan pembelajaran matakuliah Data Mining (Penambangan Data)
+Kumpulan dataset, latihan, source code, project rapidminer, dll untuk keperluan pembelajaran matakuliah Data Mining (Penambangan Data). Penjelasan konsep Data Mining dapat ditemukan di kanal Youtube http://youtube.com/c/AchmadSolichin.
 
 # catatan
 1. Sebagian dataset diperoleh dari situs https://romisatriawahono.net/dm/
